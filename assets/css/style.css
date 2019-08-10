@@ -1,0 +1,37 @@
+
+element.style {
+}
+.wrapper-page .card-box {
+    border: 1px solid rgba(54, 64, 74, 0.1);
+}
+.card-box {
+    padding: 20px;
+    border: 1px solid rgba(54, 64, 74, 0.05);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-clip: padding-box;
+    background-color: #ffffff;
+}
+
+
+.btn-pink, .btn-pink:hover, .btn-pink:focus, .btn-pink:active {
+    background-color: #fb6d9d !important;
+    border: 1px solid #fb6d9d !important;
+    color: #ffffff;
+}
+
+.wrapper-page .card-box {
+    border: 1px solid rgba(54, 64, 74, 0.1);
+}
+
+.account-pages {
+    background: url(../images/agsquare.png);
+    position: absolute;
+    top: 0;
+}
+.wrapper-page {
+    margin: 5% auto;
+    position: relative;
+	width: auto;
+    
+}

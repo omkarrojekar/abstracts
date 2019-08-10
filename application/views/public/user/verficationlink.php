@@ -1,0 +1,1 @@
+Hello Welcome to the demo abstract we have received your registration request so confirm the  registration please <a href="<?php echo base_url(); ?>users/confirmregistration/<?= $logincredentails ?>/<?= $randData ?>">click here</a> 
